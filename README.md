@@ -18,7 +18,7 @@ This whole project is still a huge **WIP**, so check often :3
 - [ ] Empty
 
 # How to download
-download the .rar file and drag one of the icons into
+download the .rar file in [releases](https://github.com/EchoLazzatore/EchoIconPackGD/releases) or download it [here](https://cdn.discordapp.com/attachments/1261003113611923466/1271080391968690176/Echos_Pack_0.1.rar?ex=66b6095c&is=66b4b7dc&hm=b7aab8d1233a55b848adc969d3bae791c712a400fed7b118c4f5f66a94fa2c2b&) then open the .rar and drag one of the icons into
 "C:\Program Files (x86)\Steam\steamapps\common\Geometry Dash\Resources\icons"
 (if the black one, click on it and press `f2` to rename it to "player_04-uhd" then press `enter`
 # How to request icons
