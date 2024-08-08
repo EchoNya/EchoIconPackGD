@@ -9,13 +9,11 @@ This whole project is still a huge **WIP**, so check often :3
 
 - [x] A ":3" icon 100%
 
-- [ ] Add other cat icons (icon 98) 0%
+- [x] Add a BoyKisser icon (requested by notdavey231) 100%
 
-- [ ] Add a BoyKisser icon (requested by notdavey231) 0%
+- [ ] Add other cat icons (icon 98) (low priority) 0
 
-- [ ] Empty
-
-- [ ] Empty
+- [ ] OwO/UwU Icon (high priority) 0%
 
 # How to download
 download the .rar file in [releases](https://github.com/EchoLazzatore/EchoIconPackGD/releases) or download it [here](https://cdn.discordapp.com/attachments/1261003113611923466/1271080391968690176/Echos_Pack_0.1.rar?ex=66b6095c&is=66b4b7dc&hm=b7aab8d1233a55b848adc969d3bae791c712a400fed7b118c4f5f66a94fa2c2b&) then open the .rar and drag one of the icons into
