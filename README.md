@@ -3,6 +3,9 @@
 (First) Icon pack made by me
 
 This whole project is still a huge **WIP**, so check often :3
+
+### What i used:
+Krita and winrar, nothing special
 # To-do list
 
 - [x] A ":3" icon 100%
