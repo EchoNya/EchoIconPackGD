@@ -9,9 +9,9 @@ This whole project is still a huge **WIP**, so check often :3
 
 - [x] A ":3" icon (high priority) 100%
 
-- [ ] Add other cat icons (icon 98) (low priority) 0%
+- [ ] Add other cat icons (icon 98) 0%
 
-- [ ] Empty
+- [ ] Add a BoyKisser icon (requested by notdavey231) 0%
 
 - [ ] Empty
 
