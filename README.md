@@ -7,7 +7,7 @@ This whole project is still a huge **WIP**, so check often :3
 
 # To-do list
 
-- [x] A ":3" icon (high priority) 100%
+- [x] A ":3" icon 100%
 
 - [ ] Add other cat icons (icon 98) 0%
 
