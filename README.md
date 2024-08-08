@@ -1,6 +1,6 @@
 # Intro
 **"Echo's Icon Pack" for Geometry Dash (2.206)** ***ONLY HIGH***
-
+![Discord Shield](https://discord.com/api/guilds/[1254371768572055553]/widget.png?style=shield)
 (First) Icon pack made by me
 
 This whole project is still a huge **WIP**, so check often :3
