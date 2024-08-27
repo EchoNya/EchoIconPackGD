@@ -2,6 +2,10 @@
 **"Echo's Icon Pack" for Geometry Dash (2.206)** ***ONLY HIGH***
 (First) Icon pack made by me
 
+## Update about the repo:
+this repository's development (aka: the icon pack) might be delayed because of school, so expect to find all of this read-only :P
+__________
+
 This whole project is still a huge **WIP**, so check often :3
 
 ### What i used:
@@ -12,15 +16,17 @@ Krita and winrar, nothing special
 
 - [x] Add a BoyKisser icon (requested by notdavey231) 100%
 
-- [ ] Add other cat icons (icon 98) (low priority) 0
+- [ ] Add other cat icons (icon 98) 0%
 
-- [ ] OwO/UwU Icon (high priority) 0%
+- [ ] OwO/UwU Icon 0%
 
 ____
 
 ## joke icons list:
 
-- [ ] Caparezza icon (high priority) 0%
+- [ ] Caparezza icon 0%
+
+- [ ] Crying Bandu icon 0%
       
 ![download](https://github.com/user-attachments/assets/8864fece-6ad4-432d-8e2e-44b5d4386dcb)
 
