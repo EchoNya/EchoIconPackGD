@@ -25,10 +25,9 @@ ____
 ## joke icons list:
 
 - [ ] Caparezza icon 0%
+![download](https://github.com/user-attachments/assets/8864fece-6ad4-432d-8e2e-44b5d4386dcb)
 
 - [ ] Crying Bandu icon 0%
-      
-![download](https://github.com/user-attachments/assets/8864fece-6ad4-432d-8e2e-44b5d4386dcb)
 
 # How to download
 download the .rar file in [releases](https://github.com/EchoLazzatore/EchoIconPackGD/releases) or download it [here](https://cdn.discordapp.com/attachments/1261003113611923466/1271080391968690176/Echos_Pack_0.1.rar?ex=66b6095c&is=66b4b7dc&hm=b7aab8d1233a55b848adc969d3bae791c712a400fed7b118c4f5f66a94fa2c2b&) then open the .rar, press `windows + R` and type
