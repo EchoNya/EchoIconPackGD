@@ -2,7 +2,7 @@
 
 This repo has unfortunately been set to read only and won't be touched for a long time, there might be a fork of this project but we'll see in the future.
 
-- Echo
+-Echo
 # Intro
 **"Echo's Icon Pack" for Geometry Dash (2.206)** ***ONLY HIGH***
 (First) Icon pack made by me
